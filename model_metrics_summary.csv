@@ -1,0 +1,22 @@
+Metric,Value
+Training Accuracy (final epoch),0.8636764883995056
+Training Accuracy (best epoch),0.8636764883995056
+Validation Accuracy (final epoch),0.9170833230018616
+Validation Accuracy (best epoch),0.9170833230018616
+Training Loss (final epoch),0.011230003088712692
+Training Loss (best epoch),0.011230003088712692
+Validation Loss (final epoch),0.008561676368117332
+Validation Loss (best epoch),0.008561676368117332
+Test Accuracy,0.9164999723434448
+Test Loss,0.008470995351672173
+Test Precision,0.9164999723434448
+Test Recall,0.9164999723434448
+Test F1 Score,0.9164999223434476
+Test AUC (ROC),0.9897193312644958
+Test PRC (AUC-PR),0.973506510257721
+Precision (Macro),0.9167972814603134
+Recall (Macro),0.9165
+F1 Score (Macro),0.9165004016929317
+Precision (Weighted),0.9167972814603134
+Recall (Weighted),0.9165
+F1 Score (Weighted),0.9165004016929318
